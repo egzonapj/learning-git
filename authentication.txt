@@ -1,4 +1,5 @@
 login
 register
 forgot password
-reset password
+reset passwordgit 
+verify email
